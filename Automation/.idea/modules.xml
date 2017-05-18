@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Automation.iml" filepath="$PROJECT_DIR$/Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BestBuy/BestBuy.iml" filepath="$PROJECT_DIR$/BestBuy/BestBuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eBay/eBay.iml" filepath="$PROJECT_DIR$/eBay/eBay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/src/main/main.iml" filepath="$PROJECT_DIR$/Generic/src/main/main.iml" />
+    </modules>
+  </component>
+</project>
